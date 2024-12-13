@@ -1,26 +1,56 @@
-## Hi there 👋
+Welcome to My GitHub Profile
 
-Welcome to my GitHub profile! I'm Jarvis Young, a passionate and skilled full-stack developer.
+Hi, I'm Jarvis Young, a passionate and skilled full-stack developer dedicated to building dynamic and responsive web applications. My goal is to leverage modern frameworks and tools to create efficient, user-friendly digital solutions.
 
-🔭 I’m currently working on building dynamic and responsive web applications with modern frameworks such as React and Node.js.
+Summary
+--------
 
-🌱 I’m currently learning and improving my full-stack web development skills with hands-on experience in HTML, CSS, JavaScript, TypeScript, and more.
+I am a full-stack developer with expertise in creating web applications that prioritize functionality and user experience. My journey in tech is marked by continuous learning and a hands-on approach, allowing me to refine my skills in technologies like React, Node.js, and TypeScript. With a background in sales and customer service, I bring strong problem-solving and communication abilities to every project. Whether collaborating on open-source projects or developing complex applications, I am always looking to grow and contribute to the tech community.
 
-👯 I’m looking to collaborate on projects related to full-stack development, especially involving React, Node.js, and APIs.
+Core Technologies and Skills
+----------------------------
 
-🤔 I’m looking for help with optimizing my projects, particularly integrating complex API systems and improving test-driven development practices.
+Frontend:
 
-💬 Ask me about full-stack development, React, or anything related to web technologies!
+- HTML, CSS, JavaScript, TypeScript
 
-📫 How to reach me: You can reach me via email at youngjarvis24@gmail.comhttps://  or connect with me on LinkedIn www.linkedin.com/in/jarvis-maurice-young/ .
+- React.js, Vite
 
-⚡ Fun fact: I used to work in sales and customer service, which helped me develop strong problem-solving and communication skills that I now apply to tech.
+- Bootstrap
 
+Backend:
 
+- Node.js, Express.js
 
+- SQL (PostgreSQL), NoSQL (MongoDB)
 
-Technologies and Tools
-----------------------
-Frontend: HTML, CSS, Typescript, React
-Backend: Sql, noSql, MongoDB, Postgresql, Express
-Tools: Git, Bootstrap, VS Code, Testing, CI/CD
+- REST APIs, GraphQL
+
+Tools & Practices:
+
+- Git, VS Code
+
+- Testing & Test-Driven Development (TDD)
+
+- CI/CD Pipelines
+
+What I’m Currently Working On
+------------------------------
+
+Building dynamic and responsive web applications using React and Node.js.
+
+Enhancing full-stack development skills with hands-on projects.
+
+Optimizing projects by integrating complex API systems and improving test-driven development practices.
+
+How to Reach Me
+----------------
+
+Email: youngjarvis24@gmail.com
+
+LinkedIn: linkedin.com/in/jarvis-maurice-young
+
+Fun Fact
+
+Before diving into tech, I worked in sales and customer service. This experience helped me develop strong problem-solving and communication skills that I now apply to my technical work.
+
