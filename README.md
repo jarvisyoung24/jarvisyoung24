@@ -12,6 +12,8 @@ Welcome to my GitHub profile! I'm Jarvis Young, a passionate and skilled full-st
 
 💬 Ask me about full-stack development, React, or anything related to web technologies!
 
+📫 How to reach me: You can reach me via email at  or connect with me on LinkedIn .
+
 ⚡ Fun fact: I used to work in sales and customer service, which helped me develop strong problem-solving and communication skills that I now apply to tech.
 
 
