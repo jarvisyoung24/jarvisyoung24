@@ -1,4 +1,4 @@
-Welcome to My GitHub Profile
+Welcome to My GitHub Profile!
 
 Hi, I'm Jarvis Young, a passionate and skilled full-stack developer dedicated to building dynamic and responsive web applications. My goal is to leverage modern frameworks and tools to create efficient, user-friendly digital solutions.
 
@@ -48,7 +48,7 @@ How to Reach Me
 
 Email: youngjarvis24@gmail.com
 
-LinkedIn: linkedin.com/in/jarvis-maurice-young
+LinkedIn: in/jarvis-maurice-young
 
 Fun Fact
 
