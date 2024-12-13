@@ -50,7 +50,4 @@ Email: youngjarvis24@gmail.com
 
 LinkedIn: [in/jarvis-maurice-young](https://www.linkedin.com/in/jarvis-maurice-young/)
 
-Fun Fact
-
-Before diving into tech, I worked in sales and customer service. This experience helped me develop strong problem-solving and communication skills that I now apply to my technical work.
 
