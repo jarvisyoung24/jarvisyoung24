@@ -12,7 +12,11 @@ Welcome to my GitHub profile! I'm Jarvis Young, a passionate and skilled full-st
 
 💬 Ask me about full-stack development, React, or anything related to web technologies!
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: I used to work in sales and customer service, which helped me develop strong problem-solving and communication skills that I now apply to tech.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Technologies and Tools
+----------------------
+Frontend: HTML, CSS, Typescript, React
+Backend: Sql, noSql, MongoDB, Postgresql, Express
+Tools: Git, Bootstrap, VS Code, Testing, CI/CD
