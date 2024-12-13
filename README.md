@@ -48,7 +48,7 @@ How to Reach Me
 
 Email: youngjarvis24@gmail.com
 
-LinkedIn: in/jarvis-maurice-young
+LinkedIn: [in/jarvis-maurice-young](https://www.linkedin.com/in/jarvis-maurice-young/)
 
 Fun Fact
 
